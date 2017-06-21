@@ -1,0 +1,1 @@
+This is a copy of the folder found in the fulldemoapp folder of the MAC
