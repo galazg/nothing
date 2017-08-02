@@ -1,4 +1,4 @@
-//Calculate the time it takes to sign a transaction
+//Calculate the time it takes to sign a transaction (but doesn´t send the tx's)
 //Try different data sizes
 
 var μs = require('microseconds');
